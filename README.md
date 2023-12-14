@@ -1,9 +1,11 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Sasindu Ekanayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri lanaka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasinduekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="sasinduekanayaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasinduekanayaka" alt="sasinduekanayaka" /></a> </p>
+<img src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif align="right" style="width:400px;height:280px;" >
 
 - 🌱 I’m currently learning **python**
 
@@ -15,8 +17,8 @@
 
 - ⚡ Fun fact **Call ma as Taxi**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/sasindu sulakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasindu sulakshana" height="30" width="40" /></a>
 </p>
 
